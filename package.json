@@ -1,0 +1,21 @@
+{
+  "name": "excel",
+  "version": "1.0.0",
+  "description": "JavaScript Excel",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "excel"
+  ],
+  "author": "Muravev Aleksandr <alex.m.k20@gmail.com>",
+  "license": "ISC",
+  "private": true,
+  "devDependencies": {
+    "webpack": "^5.97.1",
+    "webpack-cli": "^5.1.4"
+  }
+}
